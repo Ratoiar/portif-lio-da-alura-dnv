@@ -201,4 +201,7 @@ body {
     .container__texto{
         width: auto;
     }
+    .imagemPrincipal{
+        width: 100%;
+    }
 }
