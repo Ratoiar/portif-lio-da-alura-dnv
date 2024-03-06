@@ -208,4 +208,8 @@ body {
     .container__texto{
         width: auto;
     }
+        .container__imagem{
+        width:100%;
+        }
+        
 }
